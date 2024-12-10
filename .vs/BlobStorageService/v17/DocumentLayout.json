@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|c:\\users\\asus\\source\\repos\\blobstorageservice\\controllers\\blobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|solutionrelative:controllers\\blobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|c:\\users\\asus\\source\\repos\\blobstorageservice\\servvices\\miniostorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|solutionrelative:servvices\\miniostorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|c:\\users\\asus\\source\\repos\\blobstorageservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|c:\\users\\asus\\source\\repos\\blobstorageservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|c:\\users\\asus\\source\\repos\\blobstorageservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|c:\\users\\asus\\source\\repos\\blobstorageservice\\servvices\\istoragebackend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|solutionrelative:servvices\\istoragebackend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|c:\\users\\asus\\source\\repos\\blobstorageservice\\servvices\\s3storagebackend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|solutionrelative:servvices\\s3storagebackend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|c:\\users\\asus\\source\\repos\\blobstorageservice\\servvices\\localfilesystemstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|solutionrelative:servvices\\localfilesystemstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|c:\\users\\asus\\source\\repos\\blobstorageservice\\models\\blobstoragedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|solutionrelative:models\\blobstoragedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|c:\\users\\asus\\source\\repos\\blobstorageservice\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|c:\\users\\asus\\source\\repos\\blobstorageservice\\models\\filemetadatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|solutionrelative:models\\filemetadatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|c:\\users\\asus\\source\\repos\\blobstorageservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|c:\\users\\asus\\source\\repos\\blobstorageservice\\models\\storageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|solutionrelative:models\\storageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|c:\\users\\asus\\source\\repos\\blobstorageservice\\models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|solutionrelative:models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|c:\\users\\asus\\source\\repos\\blobstorageservice\\models\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|solutionrelative:models\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|c:\\users\\asus\\source\\repos\\blobstorageservice\\models\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|solutionrelative:models\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|c:\\users\\asus\\source\\repos\\blobstorageservice\\models\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|solutionrelative:models\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|c:\\users\\asus\\source\\repos\\blobstorageservice\\blobstorageservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC74AF50-9951-44DA-9D38-D5B947AA0985}|BlobStorageService.csproj|solutionrelative:blobstorageservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MinioStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Servvices\\MinioStorageService.cs",
+              "RelativeDocumentMoniker": "Servvices\\MinioStorageService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Servvices\\MinioStorageService.cs",
+              "RelativeToolTip": "Servvices\\MinioStorageService.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAuwIEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:56:23.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStorageBackend.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Servvices\\IStorageBackend.cs",
+              "RelativeDocumentMoniker": "Servvices\\IStorageBackend.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Servvices\\IStorageBackend.cs",
+              "RelativeToolTip": "Servvices\\IStorageBackend.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:32:35.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlobsController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Controllers\\BlobsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BlobsController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Controllers\\BlobsController.cs",
+              "RelativeToolTip": "Controllers\\BlobsController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwDYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:54:28.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-06T13:25:42.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAAIkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:00:56.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAswLkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:47:15.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "S3StorageBackend.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Servvices\\S3StorageBackend.cs",
+              "RelativeDocumentMoniker": "Servvices\\S3StorageBackend.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Servvices\\S3StorageBackend.cs",
+              "RelativeToolTip": "Servvices\\S3StorageBackend.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAkwJwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:30:10.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LocalFileSystemStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Servvices\\LocalFileSystemStorage.cs",
+              "RelativeDocumentMoniker": "Servvices\\LocalFileSystemStorage.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Servvices\\LocalFileSystemStorage.cs",
+              "RelativeToolTip": "Servvices\\LocalFileSystemStorage.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAswG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:35:52.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlobStorageDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Models\\BlobStorageDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\BlobStorageDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Models\\BlobStorageDbContext.cs",
+              "RelativeToolTip": "Models\\BlobStorageDbContext.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAkwEUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:56:49.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:13:41.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileMetadatum.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Models\\FileMetadatum.cs",
+              "RelativeDocumentMoniker": "Models\\FileMetadatum.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Models\\FileMetadatum.cs",
+              "RelativeToolTip": "Models\\FileMetadatum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:59:13.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:58:09.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StorageConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Models\\StorageConfiguration.cs",
+              "RelativeDocumentMoniker": "Models\\StorageConfiguration.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Models\\StorageConfiguration.cs",
+              "RelativeToolTip": "Models\\StorageConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:02:56.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Models\\Permission.cs",
+              "RelativeDocumentMoniker": "Models\\Permission.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Models\\Permission.cs",
+              "RelativeToolTip": "Models\\Permission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:02:35.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Models\\File.cs",
+              "RelativeDocumentMoniker": "Models\\File.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Models\\File.cs",
+              "RelativeToolTip": "Models\\File.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:02:02.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Models\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Models\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:26:36.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ActivityLog.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Models\\ActivityLog.cs",
+              "RelativeDocumentMoniker": "Models\\ActivityLog.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\Models\\ActivityLog.cs",
+              "RelativeToolTip": "Models\\ActivityLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:59:34.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BlobStorageService.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\BlobStorageService.csproj",
+              "RelativeDocumentMoniker": "BlobStorageService.csproj",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BlobStorageService\\BlobStorageService.csproj",
+              "RelativeToolTip": "BlobStorageService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T11:27:40.071Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

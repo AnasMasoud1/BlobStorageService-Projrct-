@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6wvJsnDriO+Zrnd3aBgwRh892hzVpA6yBZeh/+s6jdA=",
+  "Source": "BlobStorageService",
+  "BasePath": "_content/BlobStorageService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
